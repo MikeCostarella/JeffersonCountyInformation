@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "County-hosted (custom)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Jefferson County Government", category: "Government", subcategory: "County", url: "https://jeffersoncountyoh.com/", description: "Official Jefferson County government website" },
